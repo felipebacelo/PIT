@@ -1,0 +1,214 @@
+@font-face {
+    font-family: 'SimpleLineIcons';
+    src: url('SimpleLineIcons.ttf');
+}
+
+@font-face {
+    font-family: 'Playfair Display_italic';
+    src: url('Playfair Display_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Playfair Display_bold_italic';
+    src: url('Playfair Display_bold_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Playfair Display_bold';
+    src: url('Playfair Display_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('Playfair Display.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat_italic';
+    src: url('Montserrat_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat_bold_italic';
+    src: url('Montserrat_bold_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat_bold';
+    src: url('Montserrat_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat.ttf');
+}
+
+@font-face {
+    font-family: 'Merriweather_italic';
+    src: url('Merriweather_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Merriweather_bold_italic';
+    src: url('Merriweather_bold_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Merriweather_bold';
+    src: url('Merriweather_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('Merriweather.ttf');
+}
+
+@font-face {
+    font-family: 'Lato_italic';
+    src: url('Lato_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Lato_bold_italic';
+    src: url('Lato_bold_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Lato_bold';
+    src: url('Lato_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato.ttf');
+}
+
+@font-face {
+    font-family: 'FontAwesome5_Regular';
+    src: url('FontAwesome5_Regular.ttf');
+}
+
+@font-face {
+    font-family: 'FontAwesome5_Brands';
+    src: url('FontAwesome5_Brands.ttf');
+}
+
+@font-face {
+    font-family: 'FontAwesome5_Solid';
+    src: url('FontAwesome5_Solid.ttf');
+}
+
+@font-face {
+    font-family: 'Archivo Narrow_italic';
+    src: url('Archivo Narrow_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Archivo Narrow_bold_italic';
+    src: url('Archivo Narrow_bold_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Archivo Narrow_bold';
+    src: url('Archivo Narrow_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Archivo Narrow';
+    src: url('Archivo Narrow.ttf');
+}
+
+@font-face {
+    font-family: 'AntDesign';
+    src: url('AntDesign.ttf');
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('FontAwesome.ttf');
+}
+
+@font-face {
+    font-family: 'MaterialIcons';
+    src: url('MaterialIcons.ttf');
+}
+
+@font-face {
+    font-family: 'Zocial';
+    src: url('Zocial.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('Open Sans.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_300';
+    src: url('Open Sans_300.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_600';
+    src: url('Open Sans_600.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_600_italic';
+    src: url('Open Sans_600_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_800';
+    src: url('Open Sans_800.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_800_italic';
+    src: url('Open Sans_800_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_bold';
+    src: url('Open Sans_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_bold_italic';
+    src: url('Open Sans_bold_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans_italic';
+    src: url('Open Sans_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('Roboto Mono.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto Mono_bold';
+    src: url('Roboto Mono_bold.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto Mono_bold_italic';
+    src: url('Roboto Mono_bold_italic.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto Mono_italic';
+    src: url('Roboto Mono_italic.ttf');
+}
+
+@font-face {
+    font-family: 'SAP-icons';
+    src: url('SAP-icons.ttf');
+}
+
+@font-face {
+    font-family: 'BusinessSuiteInAppSymbols';
+    src: url('BusinessSuiteInAppSymbols.ttf');
+}
